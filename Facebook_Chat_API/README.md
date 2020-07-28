@@ -1,4 +1,4 @@
-# Node.js Express, Sequelize & PostgreSQL: CRUD Rest APIs
+# Node.js Express, Sequelize & PostgreSQL: CRUD Rest APIs BotsLab
 
 For more detail, please visit:
 > [Node.js CRUD Rest APIs with Express, Sequelize & PostgreSQL example](https://bezkoder.com/node-express-sequelize-postgresql/)
