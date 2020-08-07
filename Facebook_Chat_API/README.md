@@ -14,7 +14,7 @@ Fullstack:
 ```
 npm install
 ```
-## Project setup
+## Instalar módulos: express, sequelize, pg, pg-hstorey body-parser.
 npm install express sequelize pg pg-hstore body-parser cors --save
 
 ### Run
